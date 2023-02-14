@@ -1,0 +1,43 @@
+java, c#, nodejs, go, python
+microservice architecture, different databases
+
+
+register/login etc -> C# .net (rest) users write
+what assets are rn in organization? golang (rest) assets write
+	define id, assets, locations or departments, threats, importance level, current defence, proposed defense, time for each asset
+
+filters and generate reports pdfs etc and return for download -> (rest) java springboot
+dashboard type: classifying assets based on types provided and drawing charts etc -> (graphql) node js (particular user ka gp ka graph show)
+those devices needs additional security (higher importance level and lower current defense) gives red alert -> (rest) python django
+
+// make clusters and generate reports of same type devices -> python django
+// suggest security for an asset according to the importance level, threats, and risk defined -> python django
+// chatbot -> python django
+// sorting assets threat vise, and importance vise -> java springboots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user/doctor register/login -> java
+search for someone -> c#
+send msg, if msg sent, put into inbox -> go
+chatbot
+recommending people based on profiles, trending diseases -> python
+symptom checker or diagnosis etc -> nodejs
+
+react
+
+job portal?
+Application For Grocery Delivery
